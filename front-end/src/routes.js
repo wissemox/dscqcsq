@@ -18,7 +18,7 @@ import Tab4 from "views/tab4";
 var routes = [
   {
     path: "/tab4",
-    name: "Tab4",
+    name: "Inscraption for job",
     icon: "ni ni-tv-2 text-primary",
     component: Tab4,
     layout: "/admin",
