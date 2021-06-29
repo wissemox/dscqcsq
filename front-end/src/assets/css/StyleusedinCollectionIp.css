@@ -1,0 +1,86 @@
+/* font size */
+.f-20{
+    font-size: 20px;
+} 
+/* Flex */
+.flex{
+    display: flex;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+
+.flex-center{
+    justify-content: center;
+    
+    }
+.flex-end{
+    justify-content: flex-end;
+}
+/* Weight */
+.font-weight-500{
+    font-weight: 500;
+}
+.font-weight-600{
+    font-weight: 600;
+}
+/* widht */
+.wp-100{
+    width: 100%;
+}
+/* Heaght */
+.heaight-50{
+    height: 50px;
+}
+/* Background */
+.bg-transparent{
+    background-color: transparent;
+}
+.bg-Blue{
+    background-color: #0275D8;
+}
+
+/* Border */
+.br-colorgrey{
+    border: 2px solid #E8E8E8;
+
+}
+.rounded-sm{
+    border-radius: 5px;
+}
+.rounded-xl{
+    border-radius: 20px;
+}
+.rounded-lg{
+    border-radius: 30px;
+
+}
+
+/* Text color */
+.color-w{
+    color: white;
+}
+/* marginBotom */
+.mb-4{
+    margin-bottom: 4px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.mr-50{
+    margin-right: 50px;
+    background-color: #0275D8;
+}
+/* Color */
+.Danger{
+    color: #C12026;
+}
+.success{
+    color: #139146;
+}
+@media screen and (max-width: 1200px) {
+    .mr-50{
+        margin-right: 0px;
+    }
+    
+  }
